@@ -2,6 +2,10 @@
 
 https://hub.docker.com/r/ys659/assignment12
 
+# Screenshots
+<img src="screenshots/1.png" width="80%">
+<img src="screenshots/2.png" width="80%">
+
 # 📦 Project Setup
 
 ---
