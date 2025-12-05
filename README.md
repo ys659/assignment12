@@ -6,6 +6,9 @@ https://hub.docker.com/r/ys659/assignment12
 <img src="screenshots/1.png" width="80%">
 <img src="screenshots/2.png" width="80%">
 
+# Testing
+pytest
+
 # 📦 Project Setup
 
 ---
