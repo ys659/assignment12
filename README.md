@@ -9,6 +9,9 @@ https://hub.docker.com/r/ys659/assignment12
 # Testing
 pytest
 
+# GI Actions update
+<img src="screenshots/GH Actions.png" width="80%">
+
 # 📦 Project Setup
 
 ---
