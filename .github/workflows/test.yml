@@ -100,8 +100,8 @@ jobs:
         with:
           push: true
           tags: |
-            kaw393939/601_module9:latest
-            kaw393939/601_module9:${{ github.sha }}
+            ys659/assignment12:latest
+            ys659/assignment12:${{ github.sha }}
           platforms: linux/amd64,linux/arm64
-          cache-from: type=registry,ref=kaw393939/601_module9:cache
+          cache-from: type=registry,ref=ys659/assignment12:cache
           cache-to: type=inline,mode=max
